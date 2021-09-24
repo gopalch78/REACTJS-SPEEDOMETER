@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.speedometer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.speedometer-heading {
+}
+.img-logo {
+  height: 500px;
+  width: 500px;
+}
+.speedometer-description {
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.btn {
+  background-color: #0b69ff;
+}
+.btn-1 {
+  background-color: transparent;
+}
